@@ -1,0 +1,13 @@
+.product-head{
+    color: rgb(238, 131, 131);
+    font-weight: bold;
+}
+.product-section{
+    /* background-color: rgba(253, 213, 213, 0.374); */
+}
+mat-card{
+   height: 385px;
+   max-width: 350px;
+ 
+  
+}
